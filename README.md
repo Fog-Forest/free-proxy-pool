@@ -39,7 +39,7 @@
 
 ### 运行结果
 
-![](https://cdn.jsdelivr.net/gh/BugF/IMG/2021/01/21/600876da3dd74.png)
+![jieguo](https://cdn.jsdelivr.net/gh/BugF/IMG/2021/01/21/600876da3dd74.png)
 
 
 ### 注意事项
