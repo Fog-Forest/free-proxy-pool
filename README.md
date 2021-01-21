@@ -43,4 +43,4 @@
 
 
 ### 注意事项
-本项目仅仅是一个简单的脚本，请勿用作非法用途，通常免费代理质量都较差，不建议用于爬虫，本项目依然不够完善，后续大概率随缘更新，如果发现 bug 或有新的功能添加，欢迎在 [Issues](https://github.com/Fog-Forest/free-proxy-pool/issues) 中反馈，同时也可以到我的 [博客](https://m1314.cn/) 中留言。
+本项目仅仅是一个简单的脚本，请勿用作非法用途，通常免费代理质量都较差，不建议用于爬虫，本项目依然不够完善，后续随缘更新，如果发现 bug 或有新的功能添加，欢迎在 [Issues](https://github.com/Fog-Forest/free-proxy-pool/issues) 中反馈，同时也可以到我的 [博客](https://m1314.cn/) 中留言。
