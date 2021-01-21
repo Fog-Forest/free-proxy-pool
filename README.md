@@ -39,7 +39,7 @@
 
 ### 运行结果
 
-![jieguo](https://cdn.jsdelivr.net/gh/BugF/IMG/2021/01/21/600876da3dd74.png)
+![jieguo](https://raw.githubusercontent.com/Fog-Forest/free-proxy-pool/main/demo.png)
 
 
 ### 注意事项
